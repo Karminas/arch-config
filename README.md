@@ -19,4 +19,6 @@ current configuration files for:
 ```
 
 -picom
+```
 /etc/xdg/picom.conf
+```
