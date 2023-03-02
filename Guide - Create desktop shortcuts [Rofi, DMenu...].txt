@@ -1,0 +1,20 @@
+Create shortcuts for executables manually downloaded
+
+- A new file should be created, in following path, with following contents
+
+//Target path
+.local/share/applications/<application-name.desktop>
+
+//File name-extension
+application-[appName].desktop
+
+//File contents
+[Desktop Entry]
+Encoding=UTF-8              
+Version=1.0
+Type=Application
+Terminal=false
+Exec=/path/to/executable        //Path to executable 
+Name=Name of Application        //Name for executable
+Icon=/path/to/icon              //Image icon
+
