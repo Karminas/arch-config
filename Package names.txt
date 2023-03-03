@@ -1,0 +1,14 @@
+I3              Window tiling manager
+Bumblebee       i3 status bar
+Picom           Tiling transparency
+Neofetch        System info
+Htop            System info
+btop            System info
+Alacritty       Terminal emulator
+Rofi            Executable launcher
+DMenu           Executable launcher
+Ranger          File Explorer
+
+nerdfonts
+
+
