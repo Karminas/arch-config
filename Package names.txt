@@ -11,4 +11,6 @@ Ranger          File Explorer
 
 nerdfonts
 
+Add names to each worskpace according to the program on it:
+    https://github.com/cboddy/i3-workspace-names-daemon.git
 
